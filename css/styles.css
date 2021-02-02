@@ -62,6 +62,13 @@ nav ul a:hover {
     background-color:darkgoldenrod;
 }
 
+
+/* Content styles*/
+
+.text-container {
+    text-align: left;
+}
+
 /*Footer styles */
 
 footer {
