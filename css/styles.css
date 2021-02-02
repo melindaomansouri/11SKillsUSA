@@ -1,5 +1,16 @@
 /* Main Styles */
 
+body {
+    padding: 0px 20px;
+    background-color: yellow;
+}
+
+.main-container {
+    background-color:white;
+}
+
+
+/*Nav Styles */
 nav {
     float:right;
     text-decoration: none;
@@ -17,4 +28,11 @@ nav ul li {
 
 nav ul a {
     display:inline-block;
+}
+
+
+/*Footer styles */
+
+footer {
+    background-color: white;
 }
