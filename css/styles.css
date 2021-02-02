@@ -19,6 +19,10 @@ body {
     background-color:white;
 }
 
+.style-text-heading {
+    color: #C81F64;
+    padding: 15px;
+}
 
 /*Nav Styles */
 nav {
@@ -45,17 +49,17 @@ nav ul a {
 }
 
 nav ul a:visited {
-    color:#ODODOD;
+    color:#ff3300;
 }
-nav ul a:visited {
-    color:#ODODOD;
+nav ul a:active {
+    color:green;
 }
 nav ul a:visited {
     color:#ODODOD;
 }
 
 nav ul a:hover {
-    background-color:#C1E4FF
+    background-color:darkgoldenrod;
 }
 
 /*Footer styles */
