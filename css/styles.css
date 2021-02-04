@@ -70,6 +70,14 @@ nav ul a:hover {
 .text-container {
     text-align: left;
 }
+/*table styles*/
+table, td, th{
+    text-align: left;
+    padding: 10px 20px; 
+    display: table-cell;
+    
+    
+}
 
 /*Footer styles */
 
