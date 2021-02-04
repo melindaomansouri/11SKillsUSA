@@ -87,8 +87,10 @@ table, td, th{
     text-align: left;
     padding: 10px 20px; 
     display: table-cell;
-    
-    
+}
+
+.even-row {
+    background-color:lightgray;
 }
 
 /*Footer styles */
