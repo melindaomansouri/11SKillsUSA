@@ -90,6 +90,9 @@ table, td, th{
     display: table-cell;
     border: 2px solid grey;
 }
+th{
+    color: #C81F64;
+}
 
 .even-row {
     background-color:lightgray;
