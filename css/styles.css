@@ -81,7 +81,11 @@ nav > ul > a:link {
 }
 
 nav ul a:hover {
-    background-color:#d1a747;
+    color:#d1a747;
+}
+
+nav {
+    font-family: 'Open Sans', sans-serif;
 }
 
 
