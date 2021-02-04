@@ -27,6 +27,12 @@ body {
     font-weight: bold;
 }
 
+.welcome-header {
+    color: #C81F64;
+    font-weight: bold;
+    text-align: left;
+}
+
 .spacer {
     padding-top:80px;
         border-bottom: thin solid black;
@@ -84,6 +90,7 @@ nav ul a:hover {
 .text-container {
     text-align: left;
 }
+
 /*table styles*/
 .table-container {
     display:flex;
