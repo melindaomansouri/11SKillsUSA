@@ -84,12 +84,18 @@ nav ul a:hover {
     text-align: left;
 }
 /*table styles*/
+.table-container {
+    display:flex;
+    justify-content: center;
+}
+
 table, td, th{
     text-align: left;
     padding: 10px 20px; 
     display: table-cell;
     border: 2px solid grey;
 }
+
 th{
     color: #C81F64;
 }
