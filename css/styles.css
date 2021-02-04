@@ -24,6 +24,7 @@ body {
 .style-text-heading {
     color: #C81F64;
     padding: 15px;
+    font-weight: bold;
 }
 
 .spacer {
