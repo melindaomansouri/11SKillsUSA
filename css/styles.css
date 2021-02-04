@@ -24,9 +24,14 @@ body {
     padding: 15px;
 }
 
+.spacer {
+    padding-top:80px;
+        border-bottom: thin solid black;
+
+}
 /*Nav Styles */
 nav {
-    background-color: goldenrod;
+    background-color: white;
 }
 
 nav ul {
@@ -38,14 +43,21 @@ nav ul {
 
 nav ul a {
     padding-right: 20px;
-    padding-top: 40px;
+    margin-top: 20px;
+    padding-top:20px;
     padding-bottom: 10px;
     padding-left: 20px;
     float: right;
-    background-color: orange;
     text-align: center;
     text-decoration: none;
-    border-bottom: 2px solid black;
+}
+nav img {
+    padding-right: 20px;
+    margin-top:20px;
+    padding-left: 20px;
+    float: left;
+    text-align: center;
+    text-decoration: none;
 }
 
 nav ul a:visited {
