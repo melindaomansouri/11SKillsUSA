@@ -53,6 +53,7 @@ nav ul a {
     float: right;
     text-align: center;
     text-decoration: none;
+    color: #C81F64;
 }
 nav img {
     padding-right: 20px;
@@ -74,7 +75,7 @@ nav > ul > a:link {
 }
 
 nav ul a:hover {
-    background-color:darkgoldenrod;
+    background-color:#d1a747;
 }
 
 
