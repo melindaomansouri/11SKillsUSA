@@ -87,6 +87,7 @@ table, td, th{
     text-align: left;
     padding: 10px 20px; 
     display: table-cell;
+    border: 2px solid grey;
 }
 
 .even-row {
