@@ -1,7 +1,7 @@
 /* Main Styles */
 
 body {
-    padding: 0px 20px;
+    padding: 0px 10%;
     background-color: #d4bd61;
     font-family: 'Roboto', sans-serif;
     background-image: linear-gradient(#f5e980, #d1a747);
@@ -56,8 +56,8 @@ nav ul a:visited {
 nav ul a:active {
     color:green;
 }
-nav ul a:visited {
-    color:#ODODOD;
+nav > ul > a:link {
+    color:#ff3300;
 }
 
 nav ul a:hover {
